@@ -1,4 +1,11 @@
 # 3D-film-set
 
-Developed an immersive 3D film set website while working for GSU CETLOE Multimedia design team to learn about film set components.
-- Website link: https://film-tour.web.app/
+3D Film Set is a website that helps to learn about actual filmset & it's characters by interacting with the website. Users can look and move around the scene to explore different filmset components and learn about specific roles & duties performed by the filmset staff. 3D Film Set was inspired by FPP games to make learning experience more fun and engaging.
+
+![Film Set scene page](./images/film-set-scene-page.png)
+Fig 1: Film Set scene page
+
+![Film Set popup page](./images/film-set-popup-page.png)
+Fig 2: Film Set popup page
+
+Website link: https://film-tour.web.app/
