@@ -8,4 +8,10 @@ Fig 1: Film Set scene page
 ![Film Set popup page](./images/film-set-popup-page.png)
 Fig 2: Film Set popup page
 
-Website link: https://film-tour.web.app/
+# Tech Stack
+
+HTML, CSS, Bootstrap, JavaScript, Webpack, Blender
+
+# Demo 
+
+Watch demo [here](https://film-tour.web.app/)
